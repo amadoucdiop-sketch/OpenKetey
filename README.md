@@ -4,4 +4,4 @@
 A public API used for extensions, and extension development.
 
 Our public API URL is:
-https://opensnail.snail-ide.com/
+https://ketey-ide.github.io/OpenKetey
